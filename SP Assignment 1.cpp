@@ -18,4 +18,5 @@ int main() {
 	    cout << "product net price is NOT accepted";
 		else if (net_price[i] < max_price[i])
 		cout << "product net price is accepted";
+	hello
 }
